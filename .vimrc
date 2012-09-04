@@ -108,6 +108,7 @@ map <Tab> ==
 " imap <left> <nop>
 " imap <right> <nop>
 
+
 let g:NERDTreeWinSize = 25 
 
 
