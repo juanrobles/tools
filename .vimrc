@@ -1,4 +1,3 @@
-
 " An example for a vimrc file.
 "
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
@@ -25,14 +24,16 @@ set nocompatible
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
-if has("vms")
-  set nobackup		" do not keep a backup file, use versions instead
-else
-  set backup		" keep a backup file
-  set backupdir=~/.vim/backup
-endif
-set history=50		" keep 50 lines of command line history
-set ruler		" show the cursor position all the time
+"set nobackup		" do not keep a backup file, use versions instead
+"if has("vms")
+"  set nobackup		" do not keep a backup file, use versions instead
+"else
+"  set backup		" keep a backup file
+"  set backupdir=~/.vim/backup
+"endif
+
+set history=250 " keep 250 lines of command line history
+set ruler " show the cursor position all the time
 set showcmd		" display incomplete commands
 set incsearch		" do incremental searching
 
@@ -45,7 +46,7 @@ set expandtab "tabs to spaces
 set tabstop=2 "Tabs are 2 spaces in width
 set shiftwidth=2 "Autodindent to 2 spaces width
 set softtabstop=2 "Number of spaces added when hitting tab, tab is disabled anyway! see below.
-set scrolloff=10 "Start scrolling when 10 lines close to the bottom
+"set scrolloff=2 "Start scrolling when 2 lines close to the bottom
 set ruler "Shows current file position
 set statusline=%<%f\ %h%m%y%r%=%-14.(%l,%c%V%)\ %P
 "set cursorcolumn "Highlight current column
@@ -87,7 +88,7 @@ let g:indent_guides_start_level = 1
 hi IndentGuidesEven ctermbg=black
 hi IndentGuidesOdd ctermbg=grey
 
-au BufNewFile,BufRead *.ui set filetype=ruby
+"au BufNewFile,BufRead *.ui set filetype=ruby
 au BufNewFile,BufRead *.ru set filetype=ruby
 au BufNewFile,BufRead Fudgefile set filetype=ruby
 
@@ -97,6 +98,15 @@ set list lcs=tab:·⁖,trail:¶
 "End of Steven's settings
 
 map <Tab> ==
+nnoremap <silent> [b :bprevious<CR>
+nnoremap <silent> ]b :bnext<CR>
+nnoremap <silent> [B :bfirst<CR>
+nnoremap <silent> ]B :blast<CR>
+
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l
 
 " disable arrow keys
 " map <up> <nop>
@@ -108,8 +118,8 @@ map <Tab> ==
 " imap <left> <nop>
 " imap <right> <nop>
 
-
-let g:NERDTreeWinSize = 25 
+let g:NERDTreeWinSize = 30
+map <c-n> :NERDTreeToggle<CR>
 
 
 
@@ -188,3 +198,7 @@ if !exists(":DiffOrig")
 		  \ | wincmd p | diffthis
 endif
 
+"ctags for gems.tags
+set tags+=gems.tags
+
+nnoremap <f5> :!ctags -R<CR>
