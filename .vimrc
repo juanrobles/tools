@@ -131,6 +131,8 @@ map <c-n> :NERDTreeToggle<CR>
 
 
 
+filetype plugin on
+runtime macros/matchit.vim
 
 " For Win32 GUI: remove 't' flag from 'guioptions': no tearoff menu entries
 " let &guioptions = substitute(&guioptions, "t", "", "g")
