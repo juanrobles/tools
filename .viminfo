@@ -8,1350 +8,467 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/softtab
+~MSle0~/rubyrac
 
 # Last Substitute Search Pattern:
-~MSle0&test\/dummy
+~MSle0&Adduser
 
 # Last Substitute String:
-$\=s:ProcessedLine(0, submatch(0), "\\V\\^\\(\\s\\{-}\\)\/*\\(\\_.\\{-}\\)*\/\\$", "\/*%s*\/")
+$
 
 # Command Line History (newest to oldest):
 :qa
-:q
 :w
-:r ~/.vimrc
-:q!
-:.!Visit http://www.pragmaticprogrammer.com/titles/dnvim for more book information.
-:.!We make no guarantees that this code is fit for any purpose. 
-:.!courses, books, articles, and the like. Contact us if you are in doubt.
-:.!Copyrights apply to this code. It may not be used to create training material, 
-:.!published by The Pragmatic Bookshelf.
-:.!Excerpted from "Practical Vim",
+:q
+:b
 :qa!
-:30
-:%s/:
-:wa
+:Ack pem
+:Ack :w
+:W
+:110
+:'<,'>q
+:wqa
+:w!
+:q\
 :sp
-:b6
-:b5
-:b3
-:buffers
+:.cc
+:Ack with_primary_busi
+:we
+:bw
+:wa
+:a
 
 # Search String History (newest to oldest):
-? \V\^\zs\(\_.\{-}\)\$
-?/softtab
-?/pato
-?/provi
-? \V\^  \zs\(\_.\{-}\)\$
-?/@
-? \<de_indent\>
-? \V\%1c      \zs\(\_.\{-}\)\%75c
-? \V\%1c        \zs\(\_.\{-}\)\%49c
-? \V\%1c        \zs\(\_.\{-}\)\%60c
+?/rubyrac
+?/libv
+? \Vpry\%#
+?/free_ac
+?/1.1.1
+?/sop
+?/cancel
+?/email
+?/my
+?/Manager
+?/System
+?/sop_dev
+?/set_ow
+? \<parse_git_branch\>
 ? \V\^      \zs\(\_.\{-}\)\$
-?/core
-? \V\^       \zs\(\_.\{-}\)\$
-? \V\^        \zs\(\_.\{-}\)\$
-? \<throws\>
-? \<paper\>
-? \<rock\>
-? \<scissors\>
-?/spec
-?/_ui
+? \V\^\zs\(\_.\{-}\)\$
+? \<user\>
+?/primary_bu
+?/owner
+? \<non_owner_context\>
 
 # Expression History (newest to oldest):
+=3245234*334-234
+=35*123.9
+=6*35
 
 # Input Line History (newest to oldest):
-@/Volumes/HD2/dev/sop/test.com
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/post_upgrade_sop_task_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/rake/post_upgrade_sop_task.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/rake/shared_examples.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev_rake_tasks_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/sop_dev_rake_tasks_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/rake/sop_dev_rake_tasks_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/rake/sop_dev_rake_task_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/rake/
-@/Volumes/HD2/dev/sop/sop_dev/spec/support/
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/sop_dev_rake_task_spec.rb
+@/Volumes/HD2/dev/s1_multi_language/spec/models/sop_settings/user_invitation_spec.rb
+@/Volumes/HD2/dev/node.js/my-project/index.js
 @yes
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/upgrade_sop_task_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/sop_upgrader.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/sop_upgrader/sop_upgrader_spec.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/sop_upgrader/
-@/Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/rake/upgrade_sop_task.rb
-@/Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/upgrade_sop_spec.rb
-@/Volumes/HD2/dev/sop/sop_core/lib/generators/sop/upgrade/upgrade_generator.rb
-@/Volumes/HD2/dev/sop/sop_core/lib/generators/sop/upgrade/
+@/Volumes/HD2/dev/sop/sop_settings/lib/sop_settings/inquirers/auth_entitlement/base.rb
+@/Volumes/HD2/dev/sop/sop_settings/spec/lib/sop_settings/inquirers/auth_entitlement/base_spec.rb
+@/Volumes/HD2/dev/sop/sop_settings/spec/lib/sop_settings/inquirers/auth_entitlement/
+@/Volumes/HD2/dev/sop/sop_settings/lib/sop_settings/inquirers/auth_entitlement/auth_entitlement.rb
+@/Volumes/HD2/dev/sop/sop_settings/lib/sop_settings/inquirers/auth_entitlement/
+@/Volumes/HD2/dev/sop/sop_settings/lib/sop_settings/inquirers/entitlement.rb
+@/Volumes/HD2/dev/sop/sop_settings/spec/lib/sop_settings/inquirers/entitlement
+@/Volumes/HD2/dev/sop/sop_settings/lib/sop_settings/inquirers/entitlement/
+@/Volumes/HD2/dev/rails_3/sample_app/config/examples/test2
+@/Volumes/HD2/dev/rails_3/sample_app/config/examples/test1
+@/Volumes/HD2/dev/rails_3/sample_app/config/examples/
+@/Volumes/HD2/dev/rails_3/sample_app/lib/tasks/setup.thor
+@/Volumes/HD2/dev/rails_3/recaptcha/app/views/shared/_error_messages.html.erb
+@/Volumes/HD2/dev/rails_3/recaptcha/app/views/shared/_error_messages.hmtl.erb
+@/Volumes/HD2/dev/rails_3/recaptcha/app/views/shared/
+@/Volumes/HD2/dev/rails_3/recaptcha/config/initializers/recaptcha.rb
+@/Volumes/HD2/dev/mysageone_na/mysageone_na/app/views/sop_admin/users/_new_accountant.html.ui
 
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	Chapter     | Page
-""1	LINE	0
+""0	CHAR	0
+	railsu
 	
+	# To use ActiveModel has_secure_password
+	# gem 'bcrypt-ruby', '~> 3.0.0'
+	
+	# To use Jbuilder templates for JSON
+	# gem 'jbuilder'
+	
+	# Use unicorn as the app server
+	# gem 'unicorn'
+	
+	# Deploy with Capistrano
+	# gem 'capistrano'
+	
+	# To use debugger
+	# gem 'debugger'
+	
+	gem "the
+"1	LINE	0
+	>>>>>>> master
 "2	LINE	0
-	call pathogen#infect()
-"3	CHAR	0
-	1
-	var bar = 'a'
-	var foobar = foo + bar
-"4	BLOCK	5
-	images
-	images
-	images
-"5	BLOCK	0
-	 
-	 
-	 
-	 
-"6	BLOCK	0
-	 
-	 
-	 
-	 
-"7	BLOCK	0
-	 
-	 
-	 
-	 
-"8	BLOCK	0
-	 
-	 
-	 
-	 
+	
+"3	LINE	0
+	=======
+"4	LINE	0
+	<<<<<<< HEAD
+"5	LINE	0
+	
+"6	LINE	0
+	
+"7	LINE	0
+	require 'pry'; binding.pry
+"8	LINE	0
+	mysageone_na_client_ref: d129e43712fc7971ec4b860baa917769e48db1fe
 "9	LINE	0
-	/*  -->*/
-"a	LINE	0
-	" tComment.vim -- An easily extensible & universal comment plugin 
-	" @Author:      Tom Link (micathom AT gmail com)
-	" @License:     GPL (see http://www.gnu.org/licenses/gpl.txt)
-	" @Created:     27-Dez-2004.
-	" @Last Change: 2011-05-26.
-	" @Revision:    720
-	" GetLatestVimScripts: 1173 1 tcomment.vim
-	
-	if &cp || exists('loaded_tcomment')
-	    finish
-	endif
-	let loaded_tcomment = 205
-	
-	if !exists("g:tcommentMapLeader1")
-	    " g:tcommentMapLeader1 should be a shortcut that can be used with 
-	    " map, imap, vmap.
-	    let g:tcommentMapLeader1 = '<c-_>'
-	endif
-	if !exists("g:tcommentMapLeader2")
-	    " g:tcommentMapLeader2 should be a shortcut that can be used with 
-	    " map, xmap.
-	    let g:tcommentMapLeader2 = '<Leader>_'
-	endif
-	if !exists("g:tcommentMapLeaderOp1")
-	    let g:tcommentMapLeaderOp1 = 'gc'
-	endif
-	if !exists("g:tcommentMapLeaderOp2")
-	    let g:tcommentMapLeaderOp2 = 'gC'
-	endif
-	
-	
-	" :display: :[range]TComment[!] ?ARGS...
-	" If there is a visual selection that begins and ends in the same line, 
-	" then |:TCommentInline| is used instead.
-	" The optional range defaults to the current line. With a bang '!', 
-	" always comment the line.
-	"
-	" ARGS... are either (see also |tcomment#Comment()|):
-	"   1. a list of key=value pairs
-	"   2. 1-2 values for: ?commentBegin, ?commentEnd
-	command! -bang -range -nargs=* -complete=customlist,tcomment#CompleteArgs TComment
-	            \ keepjumps call tcomment#Comment(<line1>, <line2>, 'G', "<bang>", <f-args>)
-	
-	" :display: :[range]TCommentAs[!] commenttype ?ARGS...
-	" TCommentAs requires g:tcomment_{filetype} to be defined.
-	" With a bang '!', always comment the line.
-	"
-	" ARGS... are either (see also |tcomment#Comment()|):
-	"   1. a list of key=value pairs
-	"   2. 1-2 values for: ?commentBegin, ?commentEnd
+	>>>>>>> master
+"a	CHAR	0
+	w
 "i	CHAR	0
 	re
-"u@	CHAR	0
-	489
-<ire "sinatra/base"require "sinatra/config_file"class MyApp < Sinatra::Base  register Sinatra::ConfigFile  config_file 'path/to/config.yml'  get '/' do    @greeting = settings.greeting    haml :index  end  # The rest of your modular application code goes here...end€ku€kd€kl€kl€kl€kl€kl€kD€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kl€kl€kl€kl€kl€kl€kl€kr€kr€kl€klirequi€kl€kl€kl€klV€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd	€kd€kd:w€kr€kd€kd€kd:1:q:4
+"u	CHAR	0
+	2689
+<€ýc€ýb€ý,€ý.€ü €ý,€ü €ý.€ý,€ý.y€ý,€ý.€ü €ý,€ü €ý.€ý,€ý.p€ku€ku€ku€ku€ku€ku€ku€kusdd€kb€kbdd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kD€kD€kD€kD€kD€kD€kD€kDiSignups€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kd€kd€kd€kd€kd€kd€kd€kd€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€klV€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€kuv€ku€ku€ku€ku€ku€ku€ku€ku€ku€kuv€ku€kr€kr€krV€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr%di€kudesci€kbribe 'setting the cooli€kb€kbkies' doend€kuo€ýc€ýb€ýM€ýM€ý,€ý.€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€krs€ý,€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý.€ý,€ý.€ku€ku€kdoecont€kb€kb€kb€kb€kbcontext 'pasu is true' doende€kbcontext 'a€kbpasuy€kb os€kb€kbis false' doend€kd€ku€ku€kudd€kd€kddd€ku€ku€ku€kuobebo€kb€kbfore€ý,€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý.€ý,€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý-€ý.€ý,€ý.€ku€kr€kl €kl€kD€kr :each doend€kd€kd€kd€ku€ku€ku€ku€ku€kdd€kduV€kdy€kd€kd€kdp€ku€ku€ku€ku€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kropost :sigup€kl€kl€kl€kl€kl€kl€kl€kl€kr€ýc€ýb€ý,€ý.€ku€kl€kln€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kD€kD€kD€kDget€kr€kr€kr€kl€kD€kD€kD€kD€kD€kDwizard, :€kb:€kb;sign€kb€kb€kb€kb€kb:pasu => tur€kb€kbrue€kr€kl€kl€kl€kl€kl€kl€klyy€kd€kd€kd€kdp€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kD€kl€kl€kD€kD€kD€kl€kl€kl€kl€kl€kl€kl€kl€kD€kD€kD€kD€kD€kD€kD€kD€kD€kl€kD :w€ýK€ýK€ýK€ýM€ýc€ýb€ku€ku€ku€ku€ku€kr€kr€kr€kr€kr€kr€kr€kr€kr€kroit 'shjould€kb€kb€kb€kb€kbould create a cookei€kb€kbie' doend€ku€ku€ku€ku€ku€kd€kd€kd€kd€kucontext 'ch€kbookie exists' doend€kb€kb€kb€kb€kb€kb€kbe€kbend€ku€ku€ku€ku€kl€kl€kl€kl€klV€kd€kdy€kd€kd€kdp	€kd	€kd	€kd€ku€ku€ku€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kddd€kuosubject.cokkie€kb€kb€kb€kbik€kb€kbokie €ýc€ýb€ýc€ýb€kl €ku€ku€ku€ku€ku€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kl€kl€kD€kD€kD€kD€kD€kD€kD€kD€kl€kl€kD€kD€kD€kD€kD€kD€kD€ku€ku€kr€krjuuu€ýc€ýbyyjjjjop>>kddkkkkkkkVjjjdVjjjjjyjjjjjpjjjjjjVjdkkkkkkkkoit€kb€kbcontext€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbkkkkkobof€kb€kb€kb€kb€kb€kb€kbjjjjjjjjjddkkkkoit "should create a cookie" doendjjjjjokkkkkkkVjyjjjjjjpjjdkkkujddkkkkkkkkkeeeebinot jjjjjjjkkkkkkkVjyjjjjjjjjjjjjjjpVj<kkkkkkkkkkkkjkeeeebidoes not jjjjjjjkkkkkkkkkkkkki€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbrequest.cookies['pasu'] = 1jjjosubject,€kb.should not€kb€kb€kb€kb_not_receive :create_pasu_cookieyyjjjjjjjopkddeeehhhhhhhvhhhx;w
 "-	CHAR	0
-	images/sprite.png'); }
+	 
 
 # File marks:
-'0  19  21  ~/.vimrc
-'1  115  0  ~/NERD_tree_1
-'2  6  6  /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
-'3  41  0  /Volumes/HD2/dev/sop/NERD_tree_1
-'4  98  20  ~/.vimrc
-'5  7  4  /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
-'6  4  0  /Volumes/HD2/dev/mysageone/simulator/config.ru
-'7  30  15  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
-'8  62  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
-'9  4  0  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
+'A  7  0  /Volumes/HD2/dev/mysageone_uk/mysageone_uk/lib/mysageone_uk/login_handlers/barclays.rb
+'0  48  40  /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+'1  4  0  /Volumes/HD2/dev/na_sage_one/NERD_tree_1
+'2  10  55  ~/.gitconfig
+'3  744  20  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+'4  11  0  ~/NERD_tree_1
+'5  137  0  /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+'6  13  77  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/lib/mysageone_na/rspec_factories.rb
+'7  27  0  /Volumes/HD2/dev/na_sage_one/config.yml
+'8  26  30  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/mailers/sop_settings/user_invitation_mailer.rb
+'9  1  0  sageone_na/app/mailers/message_mailer.rb
 
 # Jumplist (newest first):
--'  19  21  ~/.vimrc
--'  188  0  ~/.vimrc
--'  97  0  ~/.vimrc
--'  47  93  ~/.vimrc
--'  115  0  ~/NERD_tree_1
--'  118  0  ~/NERD_tree_1
+-'  48  40  /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+-'  38  25  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile
+-'  38  0  /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+-'  31  12  /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+-'  1  0  /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+-'  4  0  /Volumes/HD2/dev/na_sage_one/NERD_tree_1
+-'  42  0  /Volumes/HD2/dev/na_sage_one/NERD_tree_1
+-'  1  0  /Volumes/HD2/dev/na_sage_one/NERD_tree_1
+-'  1  0  /Volumes/HD2/dev/na_sage_one/Gemfile
+-'  10  55  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  744  20  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+-'  479  4  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+-'  789  2  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+-'  739  6  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+-'  80  21  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+-'  29  37  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile
+-'  1  0  /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile
+-'  11  0  ~/NERD_tree_1
+-'  125  0  ~/NERD_tree_1
 -'  1  0  ~/NERD_tree_1
--'  6  6  /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
--'  7  4  /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
--'  1  0  /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
--'  41  0  /Volumes/HD2/dev/sop/NERD_tree_1
--'  5  0  /Volumes/HD2/dev/sop/NERD_tree_1
--'  42  0  /Volumes/HD2/dev/sop/NERD_tree_1
--'  1  0  /Volumes/HD2/dev/sop/NERD_tree_1
--'  98  20  ~/.vimrc
--'  96  0  ~/.vimrc
--'  10  2  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
--'  11  0  /Volumes/HD2/dev/mysageone/simulator/public/css/extra.css
--'  4  0  /Volumes/HD2/dev/mysageone/simulator/config.ru
--'  3  0  /Volumes/HD2/dev/mysageone/simulator/config.ru
--'  1  0  /Volumes/HD2/dev/mysageone/simulator/public/css/bootstrap.css
--'  1  0  /Volumes/HD2/dev/mysageone/simulator/config.ru
--'  30  15  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
--'  1  0  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
--'  62  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  74  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  1  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  4  0  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  27  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  39  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  62  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  74  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  1  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  27  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  39  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  29  15  /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
--'  62  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  74  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  1  0  /Volumes/HD2/dev/mysageone/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  1  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  19  6  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
--'  51  0  /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
+-'  137  0  /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+-'  138  0  /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+-'  32  0  /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+-'  1  0  /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+-'  13  77  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/lib/mysageone_na/rspec_factories.rb
+-'  25  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_4
+-'  40  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_4
+-'  1  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_4
+-'  18  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_1
+-'  1  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_1
+-'  27  0  /Volumes/HD2/dev/na_sage_one/config.yml
+-'  1  0  /Volumes/HD2/dev/na_sage_one/config.yml
+-'  26  30  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/mailers/sop_settings/user_invitation_mailer.rb
+-'  1  0  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/mailers/sop_settings/user_invitation_mailer.rb
+-'  1  0  sageone_na/app/mailers/message_mailer.rb
+-'  11  10  /Volumes/HD2/dev/mysageone_uk/host_app/config/database.yml
+-'  1  0  /Volumes/HD2/dev/mysageone_uk/host_app/config/database.yml
+-'  24  0  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  350  44  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  332  44  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  286  44  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  29  75  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  27  70  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  352  34  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  1  0  /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
+-'  41  0  /Volumes/HD2/dev/mysageone_ca/host_app/Gemfile
+-'  1  0  /Volumes/HD2/dev/mysageone_ca/host_app/Gemfile
+-'  28  42  /Volumes/HD2/dev/mysageone_ca/config.yml
+-'  1  0  /Volumes/HD2/dev/mysageone_ca/config.yml
+-'  18  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/app/controllers/sop_settings/user_managements_controller.rb
+-'  15  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_4
+-'  25  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_4
+-'  1  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_4
+-'  10  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_1
+-'  1  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_1
+-'  38  34  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/models/user_invitation_spec.rb
+-'  17  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/models/user_invitation_spec.rb
+-'  12  2  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/models/user_invitation_spec.rb
+-'  46  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/models/user_invitation_spec.rb
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/user_spec.rb
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_authentication/models/signup_base_spec.rb
+-'  28  2  /Volumes/HD2/dev/s1_multi_language/spec/models/sop_settings/user_invitation_spec.rb
+-'  55  11  /Volumes/HD2/dev/s1_multi_language/NERD_tree_1
+-'  68  0  /Volumes/HD2/dev/s1_multi_language/NERD_tree_1
+-'  1  7  /Volumes/HD2/dev/s1_multi_language/NERD_tree_1
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/spec/models/sop_settings/user_invitation_spec
+-'  4  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/NERD_tree_1
+-'  6  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/NERD_tree_1
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/NERD_tree_1
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/users_management_controller_spec.rb
+-'  36  2  /Volumes/HD2/dev/s1_multi_language/Gemfile
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/Gemfile
+-'  34  7  /Volumes/HD2/dev/s1_multi_language/Gemfile
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/Guardfile
+-'  38  0  /Volumes/HD2/dev/s1_multi_language/lib/s1_multi_language/mixins/user.rb
+-'  15  72  /Volumes/HD2/dev/s1_multi_language/lib/s1_multi_language/mixins/user.rb
+-'  1  0  /Volumes/HD2/dev/s1_multi_language/lib/s1_multi_language/mixins/user.rb
+-'  149  7  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/lib/sop_authentication/models/signup_base.rb
+-'  148  11  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/lib/sop_authentication/models/signup_base.rb
+-'  26  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_4
+-'  49  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_4
+-'  1  5  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_4
+-'  10  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_1
+-'  1  0  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_1
+-'  277  19  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  276  19  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  273  9  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  247  16  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  161  27  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  160  13  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  154  20  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  152  22  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  68  22  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  402  19  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  401  13  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  400  9  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+-'  393  20  ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
 
 # History of marks within files (newest to oldest):
 
-> ~/NERD_tree_1
-	"	4	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
+> /Volumes/HD2/dev/mysageone_na/host_app/Gemfile
+	"	48	40
+	.	31	17
+	+	31	17
 
-> ~/.vimrc
-	"	19	21
-	^	19	22
-	.	19	21
-	+	91	26
-	+	95	0
-	+	96	0
-	+	98	22
-	+	47	94
-	+	98	0
-	+	19	21
-
-> /Volumes/HD2/dev/sage_one/app/controllers/core/webservice/provision_controller.rb
-	"	6	6
-	.	7	0
-	+	7	0
-	+	7	0
-
-> /Volumes/HD2/dev/sage_one/NERD_tree_1
-	"	9	3
+> /Volumes/HD2/dev/mysageone_na/host_app/NERD_tree_1
+	"	53	12
 	.	1	0
 	+	1	0
 	+	1	0
 	+	1	0
 	+	1	0
 	+	1	0
-	+	1	0
 
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/sop_upgrader.rb
-	"	18	0
-	^	14	78
-	.	15	0
-	+	1	0
-	+	2	58
-	+	3	18
-	+	6	15
-	+	5	0
-	+	5	39
-	+	6	0
-	+	22	0
-	+	12	0
-	+	22	0
-	+	11	0
-	+	9	8
-	+	22	0
-	+	9	40
-	+	7	31
-	+	8	61
-	+	9	27
-	+	1	0
-	+	9	35
-	+	4	0
-	+	21	0
-	+	21	0
-	+	9	37
-	+	11	21
-	+	21	0
-	+	21	64
-	+	21	6
-	+	11	10
-	+	9	8
-	+	11	0
-	+	15	12
-	+	13	0
-	+	10	58
-	+	6	0
-	+	15	19
-	+	21	73
-	+	10	56
-	+	16	0
-	+	18	0
-	+	20	0
-	+	21	0
-	+	17	0
-	+	18	0
-	+	21	0
-	+	5	22
-	+	15	0
-
-> /Volumes/HD2/dev/sop/sop_dev/NERD_tree_1
-	"	5	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/mysageone/simulator/config.yml
-	"	25	0
-	^	8	4
-	.	8	4
-	+	2	10
-	+	4	32
-	+	7	32
-	+	8	4
-
-> /Volumes/HD2/dev/mysageone/simulator/NERD_tree_1
-	"	7	1
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/mysageone/simulator/app/controllers/application_controller.rb
-	"	26	2
-	^	8	51
-	.	10	0
-	+	14	14
-	+	7	26
-	+	6	29
-	+	14	0
-	+	14	14
-	+	14	0
-	+	14	0
-	+	14	0
-	+	2	0
-	+	2	0
-	+	2	14
-	+	2	0
-	+	2	0
-	+	2	0
-	+	10	0
-	+	11	0
-	+	12	20
-	+	10	11
-	+	14	0
-	+	11	0
-	+	8	1
-	+	10	0
-	+	8	2
-	+	10	3
-	+	10	3
-	+	10	3
-	+	10	0
-	+	10	26
-	+	8	50
-	+	10	0
-
-> /Volumes/HD2/dev/retro.txt
-	"	1	0
-	^	54	13
-	.	54	12
-	+	5	14
-	+	7	0
-	+	4	4
-	+	9	28
-	+	10	0
-	+	4	20
-	+	12	4
-	+	11	7
-	+	12	30
-	+	4	36
-	+	5	25
-	+	6	53
-	+	3	0
-	+	27	6
-	+	26	8
-	+	27	0
-	+	28	0
-	+	19	42
-	+	20	66
-	+	24	0
-	+	30	2
-	+	37	5
-	+	16	0
-	+	30	0
-	+	37	9
-	+	31	66
-	+	33	37
-	+	34	68
-	+	38	0
-	+	39	8
-	+	45	25
-	+	48	30
-	+	51	20
-	+	51	0
-	+	52	0
-	+	54	12
-
-> /Volumes/HD2/dev/NERD_tree_1
-	"	3	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sage_one/lib/accounts/api.rb
-	"	12	4
-
-> /Volumes/HD2/dev/sage_one/NERD_tree_2
-	"	6	0
-	.	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sage_one/lib/accounts/middleware/api_auditor.rb
-	"	8	39
-
-> /Volumes/HD2/dev/sage_one/lib/accounts/endpoints/bank_accounts.rb
-	"	21	0
-
-> /Volumes/HD2/dev/sage_one/lib/accounts/endpoints/contacts.rb
-	"	70	5
-
-> /Volumes/HD2/dev/sage_one/lib/accounts/endpoints/lookups.rb
-	"	5	0
-
-> /Volumes/HD2/dev/sage_one/Gemfile
-	"	65	7
-
-> /Volumes/HD2/dev/sop/guides/config.ru
-	"	1	4
-
-> /Volumes/HD2/dev/sop/guides/NERD_tree_1
-	"	13	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sop/guides/textile_editor.rb
-	"	1	0
-
-> /Volumes/HD2/dev/sop/NERD_tree_1
-	"	41	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sop/test.com
-	"	2	8
-	^	2	11
-	.	2	0
-	+	18	0
-	+	18	0
-	+	18	0
-	+	18	0
-	+	18	0
-	+	18	0
-	+	18	0
-	+	4	0
-	+	1	0
-	+	1	0
-	+	1	12
-	+	2	12
-	+	1	12
-	+	2	12
-	+	3	0
-	+	1	0
-	+	9	0
-	+	5	0
-	+	7	17
-	+	8	17
-	+	9	18
-	+	5	12
-	+	6	0
-	+	9	0
-	+	13	0
-	+	11	8
-	+	12	8
-	+	11	38
-	+	12	0
-	+	15	10
-	+	15	11
-	+	16	0
-	+	2	0
-
-> /Volumes/HD2/dev/mysageone/simulator/public/css/bootstrap.css
-	"	1	0
-
-> /Volumes/HD2/dev/mysageone/simulator/public/css/extra.css
-	"	11	0
-	^	11	1
-	.	11	0
-	+	10	6
-	+	11	0
-
-> /Volumes/HD2/dev/mysageone/simulator/config.ru
-	"	4	0
-	.	4	0
-	+	2	28
-	+	3	1
-	+	4	0
-
-> /Volumes/HD2/dev/mysageone/NERD_tree_1
-	"	17	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/rake/upgrade_sop_task.rb
-	"	39	10
-	^	45	42
-	.	45	41
-	+	3	0
-	+	10	33
-	+	14	32
-	+	16	65
-	+	18	32
-	+	20	0
-	+	36	63
-	+	37	37
-	+	39	0
-	+	20	19
-	+	51	0
-	+	48	0
-	+	39	0
-	+	39	0
-	+	39	10
-	+	40	0
-	+	39	10
-	+	40	0
-	+	39	0
-	+	39	0
-	+	39	44
-	+	40	10
-	+	39	13
-	+	40	29
-	+	37	36
-	+	42	73
-	+	47	12
-	+	43	26
-	+	33	10
-	+	27	10
-	+	33	9
-	+	27	9
-	+	28	0
-	+	39	0
-	+	28	0
-	+	34	0
-	+	37	37
+> /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile
+	"	38	25
+	^	38	26
+	.	38	25
+	+	38	23
+	+	37	28
 	+	38	25
-	+	39	0
-	+	45	0
-	+	45	0
-	+	39	40
-	+	40	0
-	+	45	44
-	+	46	0
-	+	47	0
-	+	45	41
 
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/upgrade_sop_task_spec.rb
-	"	11	2
-	^	18	63
-	.	14	0
-	+	20	13
-	+	20	13
-	+	20	13
-	+	20	17
-	+	20	13
-	+	19	0
-	+	20	6
-	+	6	0
-	+	7	46
+> /Volumes/HD2/dev/na_sage_one/sage_one_host/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.bash_profile
+	"	13	26
+	^	11	66
+	.	11	89
+	+	65	0
+	+	67	24
+	+	11	89
+
+> /usr/local/Library/Formula/imagemagick.rb
+	"	115	4
+
+> /Volumes/HD2/dev/na_sage_one/Gemfile
+	"	16	0
+
+> /Volumes/HD2/dev/na_sage_one/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.gitconfig
+	"	10	55
+	^	10	56
+	.	10	56
+	+	9	2
+	+	10	56
+
+> /Volumes/HD2/dev/na_sage_one/sage_one_host/Gemfile.lock
+	"	744	20
+
+> ~/NERD_tree_1
+	"	11	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/accountants_core/app/models/accountants_core/accountant.rb
+	"	115	0
+	.	115	0
+	+	114	0
+	+	115	0
+
+> /Volumes/HD2/dev/accountants_core/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/na_sage_one/sageone_na/app/views/fuji_invoicing/sales_invoices/new.html.ui
+	"	137	0
+	.	138	0
+	+	136	0
+	+	138	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_3
+	"	2	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/NERD_tree_4
+	"	25	5
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-95e17ea8f2d6/mysageone_na/lib/mysageone_na/rspec_factories.rb
+	"	13	77
+	^	13	73
+	.	13	83
+	+	13	90
 	+	13	0
-	+	7	9
-	+	20	13
-	+	19	0
-	+	20	30
-	+	17	45
-	+	19	47
-	+	17	0
-	+	14	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	11	0
-	+	11	30
-	+	17	0
-	+	19	30
-	+	18	62
-	+	20	0
-	+	14	0
+	+	13	0
+	+	13	72
+	+	13	0
+	+	13	83
 
-> /Volumes/HD2/dev/sop/guides/source/release_notes_1_0_7_1.textile
-	"	41	5
-	^	42	6
-	.	42	5
-	+	35	32
-	+	36	87
-	+	36	0
-	+	35	30
-	+	36	0
-	+	37	0
-	+	60	170
-	+	37	57
-	+	41	0
-	+	39	0
-	+	42	1
-	+	56	0
-	+	54	0
-	+	56	1
-	+	81	0
-	+	60	58
-	+	37	62
-	+	37	167
-	+	55	2
-	+	45	0
-	+	39	0
-	+	46	0
-	+	49	1
-	+	49	0
-	+	46	1
-	+	48	23
-	+	44	54
-	+	47	63
-	+	48	49
-	+	47	64
-	+	48	89
-	+	47	64
-	+	52	77
-	+	52	132
-	+	52	66
-	+	52	66
-	+	52	86
-	+	60	94
-	+	60	247
-	+	61	0
-	+	60	0
-	+	60	461
-	+	37	85
-	+	58	224
-	+	60	0
-	+	37	0
-	+	37	194
-	+	60	444
-	+	39	5
-	+	42	5
-	+	46	4
-	+	49	5
-	+	54	4
-	+	56	5
-	+	39	5
-	+	42	5
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/lib/mysageone_na/rspec_factories.rb
+	"	13	73
+	^	13	73
+	.	13	72
+	+	13	72
 
-> /Volumes/HD2/dev/sop/guides/source/release_notes_1_0_7.textile
-	"	96	0
-	^	33	57
+> /Volumes/HD2/dev/mysageone_na/NERD_tree_1
+	"	30	8
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/na_sage_one/sageone_na/app/mailers/message_mailer.rb
+	"	34	53
 	.	35	0
-	+	30	78
-	+	36	78
-	+	36	85
-	+	36	76
-	+	37	69
-	+	30	33
-	+	36	80
-	+	37	29
-	+	37	51
-	+	37	51
-	+	37	80
-	+	38	20
-	+	38	57
-	+	38	55
-	+	38	56
-	+	21	0
-	+	21	0
-	+	58	0
-	+	35	0
-	+	33	0
 	+	34	0
 	+	35	0
 
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/sop_upgrader/sop_upgrader_spec.rb
-	"	20	6
-	.	13	0
-	+	1	0
-	+	2	0
-	+	22	0
-	+	3	4
-	+	15	0
-	+	9	0
-	+	7	0
-	+	6	74
-	+	13	41
-	+	13	28
-	+	6	0
-	+	4	0
-	+	10	17
-	+	13	0
-	+	13	0
-	+	14	7
-	+	4	18
-	+	13	0
-	+	10	41
-	+	6	10
-	+	11	58
-	+	6	24
-	+	8	0
-	+	22	0
-	+	22	18
-	+	22	0
-	+	22	0
-	+	13	57
-	+	13	0
-	+	13	59
-	+	13	53
-	+	11	60
-	+	17	0
-	+	16	0
-	+	17	15
-	+	19	84
-	+	19	122
-	+	19	0
-	+	12	0
-	+	13	0
-	+	13	0
+> /Volumes/HD2/dev/mysageone_na/config.yml
+	"	25	21
 
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/class_summary_spec.rb
-	"	71	0
-	^	80	3
-	.	63	30
-	+	58	0
-	+	43	4
-	+	44	20
-	+	61	0
-	+	44	43
-	+	59	0
-	+	58	5
-	+	61	20
-	+	61	29
-	+	58	0
-	+	54	0
-	+	57	0
-	+	58	37
-	+	61	0
-	+	58	36
-	+	81	0
-	+	61	0
-	+	60	3
-	+	61	0
-	+	61	0
-	+	60	2
-	+	61	0
-	+	80	2
-	+	63	30
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/sop_dev_rake_task_spec.rb
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_ui_components-1.1.1/NERD_tree_1
 	"	1	0
-	^	29	32
-	.	5	0
-	+	5	0
-	+	5	0
-	+	5	0
-	+	9	30
-	+	13	34
-	+	13	29
-	+	22	31
-	+	29	31
-	+	33	0
-	+	32	0
-	+	3	0
-	+	5	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/support/rake/sop_dev_rake_task_spec.rb
-	"	18	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/support/rake/sop_dev_rake_tasks_spec.rb
-	"	25	0
-	.	34	0
-	+	34	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/spec_helper.rb
-	"	7	0
-	^	7	38
-	.	7	37
-	+	9	0
-	+	7	37
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev_rake_tasks_spec.rb
-	"	1	0
-	^	4	40
-	.	1	0
-	+	4	40
-	+	3	0
-	+	1	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/support/rake/shared_examples.rb
-	"	24	34
-	^	24	35
-	.	24	35
-	+	1	0
-	+	31	0
-	+	1	38
-	+	4	29
-	+	29	0
-	+	5	35
-	+	24	35
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/post_upgrade_sop_task_spec.rb
-	"	16	2
-	^	18	14
-	.	10	0
-	+	19	30
-	+	11	0
-	+	20	93
-	+	18	59
-	+	20	0
-	+	18	51
-	+	14	0
-	+	10	0
-
-> /Volumes/HD2/dev/mysageone/mysageone_client/lib/mysageone_client/client.rb
-	"	55	10
-
-> /Volumes/HD2/dev/mysageone/mysageone/Rakefile
-	"	15	0
-	^	16	20
-	.	15	0
-	+	17	0
-	+	16	0
-	+	15	0
-
-> /Volumes/HD2/dev/mysageone/mysageone/NERD_tree_1
-	"	24	0
 	.	1	0
 	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_ui_components-1.1.1/NERD_tree_3
+	"	1	0
+	.	1	0
 	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_ui_components-1.1.1/NERD_tree_4
+	"	4	0
+	.	1	0
 	+	1	0
 
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/rake/upgrade_sop_spec.rb
-	"	1	20
-	.	55	0
-	+	4	0
-	+	5	0
-	+	9	32
-	+	25	22
-	+	26	40
-	+	27	37
-	+	31	37
-	+	40	39
-	+	47	39
-	+	56	0
-	+	50	0
-	+	51	0
-	+	52	38
-	+	51	40
-	+	52	46
-	+	54	29
-	+	54	82
-	+	54	79
-	+	55	0
-
-> /Volumes/HD2/dev/sop/sop_core/spec/generators/sop_core/install_spec.rb
-	"	20	0
-
-> /Volumes/HD2/dev/sop/sop_core/spec/generators/sop/upgrade_spec.rb
-	"	8	8
-	^	19	60
-	.	33	0
-	+	3	21
-	+	8	18
-	+	16	0
-	+	16	24
-	+	30	0
-	+	30	0
-	+	18	35
-	+	8	0
-	+	8	6
-	+	18	23
-	+	32	35
-	+	32	0
-	+	32	0
-	+	33	0
+> /Volumes/HD2/dev/na_sage_one/config.yml
+	"	27	0
+	^	30	22
+	.	27	0
 	+	21	0
-	+	29	0
-	+	8	0
-	+	6	3
-	+	16	12
-	+	29	12
-	+	11	0
-	+	12	0
-	+	10	14
-	+	16	0
 	+	20	0
-	+	19	59
-	+	20	8
-	+	21	0
-	+	33	0
-	+	34	0
-	+	33	0
+	+	30	21
+	+	31	20
+	+	32	14
+	+	33	15
+	+	34	12
+	+	35	16
+	+	36	22
+	+	37	18
+	+	38	26
+	+	39	12
+	+	40	20
+	+	41	21
+	+	42	21
+	+	43	17
+	+	44	14
+	+	45	10
+	+	46	18
+	+	47	26
+	+	48	9
+	+	49	20
+	+	50	36
+	+	27	0
 
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/rake.rb
-	"	6	20
-	^	6	56
-	.	6	16
-	+	6	0
-	+	6	16
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/app/mailers/sop_settings/user_invitation_mailer.rb
+	"	26	30
+	.	26	0
+	+	18	0
+	+	26	0
 
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/reflector.rb
-	"	8	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/reflector/test_engine.rb
-	"	9	0
-
-> /Volumes/HD2/dev/sop/NERD_tree_2
-	"	40	8
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sop/sop_dev/spec/sop_dev/reflector/reflector_spec.rb
-	"	77	6
-
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev.rb
-	"	11	31
-	^	10	46
-	.	10	46
-	+	10	46
-
-> /Volumes/HD2/dev/sop/sop_core/lib/generators/sop/install/install_generator.rb
+> sageone_na/app/mailers/message_mailer.rb
 	"	1	0
 
-> /Volumes/HD2/dev/sop/sop_core/lib/generators/sop/install_i18n/templates/locales/en.yml
-	"	5	0
-
-> /Volumes/HD2/dev/sop/sop_core/lib/generators/sop/install_i18n/install_i18n_generator.rb
-	"	1	0
-
-> /Volumes/HD2/dev/sop/sop_core/spec/generators/sop/install_i18n_spec.rb
-	"	7	0
-
-> /Volumes/HD2/dev/sop/sop_core/lib/generators/sop/upgrade/upgrade_generator.rb
-	"	9	10
-	^	11	11
-	.	12	0
-	+	1	0
-	+	4	26
-	+	3	80
-	+	7	57
-	+	8	15
-	+	12	0
-	+	9	7
-	+	9	30
-	+	9	47
-	+	9	61
-	+	9	0
-	+	9	69
-	+	12	0
-	+	9	68
-	+	12	0
-	+	12	0
-	+	9	44
-	+	9	0
-	+	9	45
-	+	9	49
-	+	12	0
-	+	12	0
-	+	10	10
-	+	12	0
-	+	10	28
-	+	9	9
-	+	10	19
-	+	9	11
-	+	10	10
-	+	12	0
-	+	10	37
-	+	12	0
-	+	9	28
-	+	10	30
+> /Volumes/HD2/dev/mysageone_uk/host_app/config/database.yml
+	"	11	10
+	^	11	12
+	.	11	10
 	+	11	10
-	+	12	0
-	+	9	0
-	+	12	0
 
-> /Volumes/HD2/dev/sop/sop_core/lib/generators/sop/install_layouts/install_layouts_generator.rb
-	"	10	0
-
-> /Volumes/HD2/dev/sop/sop_core/Rakefile
-	"	6	0
-
-> /Volumes/HD2/dev/sop/sop_dev/lib/sop_dev/rake/class_summary_task.rb
-	"	48	0
-
-> ~/src/doshbox/Gemfile
-	"	26	0
-	^	20	9
-	.	22	15
-	+	20	9
-	+	22	15
-	+	23	0
-	+	24	0
-	+	23	13
-	+	22	16
-	+	20	30
-	+	22	15
-
-> ~/src/doshbox/spec/dummy/NERD_tree_1
+> /Volumes/HD2/dev/mysageone_uk/host_app/NERD_tree_1
 	"	12	0
 	.	1	0
 	+	1	0
 	+	1	0
 	+	1	0
-
-> ~/src/myapp/config/application.rb
-	"	69	39
-	^	69	40
-	.	69	39
-	+	70	0
-	+	61	4
-	+	63	0
-	+	66	0
-	+	67	6
-	+	69	39
-
-> ~/src/myapp/NERD_tree_1
-	"	28	8
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
 	+	1	0
 	+	1	0
 	+	1	0
@@ -1359,516 +476,539 @@ $\=s:ProcessedLine(0, submatch(0), "\\V\\^\\(\\s\\{-}\\)\/*\\(\\_.\\{-}\\)*\/\\$
 	+	1	0
 	+	1	0
 
-> ~/src/myapp/lib/generators/rails/my_helper/my_helper_generator.rb
-	"	10	26
-	^	10	27
-	.	10	26
-	+	11	0
-	+	3	61
-	+	11	0
-	+	5	58
-	+	8	3
-	+	7	3
-	+	8	5
-	+	11	0
-	+	11	0
-	+	10	26
-
-> ~/src/myapp/app/helpers/products_helper.rb
-	"	1	0
-
-> ~/src/myapp/app/helpers/posts_helper.rb
-	"	1	0
-
-> ~/src/myapp/lib/templates/rails/helper/helper.rb
-	"	3	2
-	^	3	3
-	.	2	36
-	+	2	61
-	+	3	0
-	+	2	36
-	o	1	0
-
-> ~/src/doshbox/lib/generators/initializer_generator.rb
-	"	1	0
-	^	1	52
-	.	2	73
-	+	6	0
-	+	5	0
-	+	4	89
-	+	2	73
-
-> ~/src/doshbox/NERD_tree_1
-	"	12	12
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/src/doshbox/lib/generators/initializer/initializer_generator.rb
-	"	3	0
-	^	1	3
-	.	2	0
-	+	1	55
-	+	1	57
-	+	7	0
-	+	2	0
-
-> ~/src/doshbox/lib/generators/initializer/USAGE
-	"	7	0
-
-> ~/src/doshbox/lib/generators/initializer/templates/initializer.rb
-	"	1	0
-	^	1	4
-	.	1	0
-	+	7	72
-	+	9	0
-	+	7	53
-	+	1	0
-
-> ~/src/doshbox/config/initializers/core_extensions.rb
-	"	1	0
-
-> ~/src/doshbox/Gemfile.lock
-	"	38	1
-
-> ~/.bash_profile
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/app/models/mysageone_na/promo_code.rb
 	"	24	0
-	^	22	2
-	.	22	1
-	+	12	0
-	+	30	0
-	+	30	0
-	+	27	20
-	+	12	0
-	+	23	25
-	+	21	116
-	+	21	1
-	+	20	3
-	+	21	77
-	+	22	1
 
-> /usr/share/vim/vim73/doc/help.txt
+> /Volumes/HD2/dev/mysageone_ca/host_app/NERD_tree_1
+	"	36	9
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/mysageone_ca/host_app/Gemfile
+	"	41	0
+
+> /Volumes/HD2/dev/mysageone_ca/config.yml
+	"	28	42
+	^	28	42
+	.	28	12
+	+	28	12
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_3
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/NERD_tree_4
+	"	15	5
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_settings-1.1.1/app/controllers/sop_settings/user_managements_controller.rb
+	"	18	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_authentication/models/signup_base_spec.rb
+	"	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/NERD_tree_1
+	"	34	26
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/user_spec.rb
+	"	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/models/user_invitation_spec.rb
+	"	38	34
+	.	31	0
+	+	47	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	4	48
+	+	4	0
+	+	4	19
+	+	31	0
+	+	5	25
+	+	5	87
+	+	6	0
+	+	18	0
+	+	14	0
+	+	4	0
+	+	31	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/models/sop_settings/user_invitation_spec
+	"	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/models/sop_settings/user_invitation_spec.rb
+	"	28	2
+	^	26	50
+	.	26	49
+	+	28	0
+	+	23	30
+	+	4	103
+	+	24	24
+	+	26	49
+
+> /Volumes/HD2/dev/s1_multi_language/spec/factories/user.rb
+	"	3	4
+	.	3	0
+	+	3	9
+	+	3	14
+	+	3	12
+	+	3	9
+	+	4	0
+	+	16	0
+	+	3	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/users_management_controller_spec.rb
+	"	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/spec/lib/mixins/sop_settings/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/Gemfile
+	"	36	2
+	^	36	3
+	.	36	2
+	+	34	7
+	+	35	2
+	+	36	2
+
+> /Volumes/HD2/dev/s1_multi_language/Guardfile
+	"	1	0
+
+> /Volumes/HD2/dev/s1_multi_language/lib/s1_multi_language/mixins/user.rb
+	"	38	0
+	^	15	73
+	.	15	72
+	+	15	72
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_3
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/NERD_tree_4
+	"	26	5
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/lib/sop_authentication/models/signup_base.rb
+	"	149	7
+	^	149	8
+	.	149	8
+	+	149	8
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/NERD_tree_3
+	"	21	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/NERD_tree_4
+	"	15	6
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-6525aeae60be/Gemfile.lock
+	"	277	19
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-d02419916769/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-d02419916769/NERD_tree_3
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-d02419916769/NERD_tree_4
+	"	13	5
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/s1_multi_language-d02419916769/lib/s1_multi_language/mixins/user.rb
 	"	2	0
 
-> /Volumes/HD2/dev/sage_one/routes.txt
-	"	463	16
-
-> /Volumes/HD2/dev/mysageone/simulator/spec/spec_helper.rb
-	"	14	0
-	^	11	29
-	.	11	28
-	+	11	28
-
-> /Volumes/HD2/dev/mysageone/simulator/spec/controllers/application_controller_spec.rb
-	"	19	21
-	^	19	22
-	.	19	22
-	+	13	8
-	+	13	8
-	+	14	27
-	+	14	0
-	+	14	35
-	+	13	0
-	+	15	0
-	+	15	39
-	+	15	43
-	+	15	43
-	+	15	0
-	+	15	39
-	+	15	0
-	+	15	40
-	+	15	0
-	+	15	50
-	+	15	7
-	+	15	7
-	+	15	0
-	+	15	26
-	+	15	0
-	+	15	0
-	+	15	32
-	+	15	0
-	+	15	0
-	+	16	21
-	+	19	22
-	y	16	12
-
-> /Volumes/HD2/dev/mysageone/simulator/test.rb
-	"	10	12
-	^	14	6
-	.	14	5
-	+	15	8
-	+	1	4
-	+	5	0
-	+	7	15
-	+	11	0
-	+	10	33
-	+	5	1
-	+	7	1
-	+	5	1
-	+	7	1
-	+	13	2
-	+	14	5
-
-> /Volumes/HD2/dev/mysageone/simulator/app/helpers/application_helper.rb
-	"	6	0
-	.	6	0
-	+	6	4
-	+	6	0
-	+	6	0
-	+	6	0
-	+	6	14
-	+	6	4
-	+	6	0
-
-> /Volumes/HD2/dev/mysageone/simulator/spec/helpers/application_helper_spec.rb
-	"	18	2
-	.	10	0
-	+	23	0
-	+	23	5
-	+	23	0
-	+	23	10
-	+	23	13
-	+	23	0
-	+	23	0
-	+	9	0
-	+	10	0
-	+	10	4
-	+	5	0
-	+	10	0
-
-> /Volumes/HD2/dev/mysageone/simulator/app/controllers/welcome_controller.rb
-	"	6	2
-	^	4	12
-	.	4	11
-	+	4	11
-
-> /Volumes/HD2/dev/mysageone/simulator/spec/controllers/welcome_controller_spec.rb
-	"	13	6
-	.	14	0
-	+	14	0
-
-> /Volumes/HD2/dev/mysageone/simulator/Gemfile
-	"	5	0
-	^	5	0
-	.	4	21
-	+	4	21
-
-> /Volumes/HD2/dev/sinatra/test.rb
-	"	4	29
-	^	4	30
-	.	4	29
-	+	6	0
-	+	3	16
-	+	4	29
-
-> /Volumes/HD2/dev/sinatra/NERD_tree_1
-	"	10	1
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/sinatra/game.rb
-	"	16	0
-	.	25	0
-	+	26	0
-	+	5	61
-	+	7	2
-	+	25	0
-	+	10	37
-	+	12	36
-	+	25	0
-	+	25	0
-	+	20	7
-	+	25	0
-	+	21	59
-	+	23	52
-	+	24	0
-	+	25	0
-
-> /Volumes/HD2/dev/sinatra/public/public.html
-	"	1	7
-	.	1	0
-	+	10	0
-	+	1	0
-
-> /Volumes/HD2/dev/sinatra/div_by_zero.rb
-	"	6	1
-	^	6	2
-	.	6	1
-	+	14	0
-	+	1	3
-	+	6	1
-
-> /Volumes/HD2/dev/sinatra/cookie.rb
-	"	8	2
-	^	8	3
-	.	8	3
-	+	12	0
-	+	8	3
-
-> /Volumes/HD2/dev/sinatra/streaming.rb
-	"	21	0
-	.	9	0
-	+	24	8
-	+	9	4
-	+	10	4
-	+	11	4
-	+	12	4
-	+	13	4
-	+	14	4
-	+	15	4
-	+	16	4
-	+	17	4
+> /Volumes/HD2/dev/s1_multi_language/.gitignore
+	"	18	4
+	^	18	5
+	.	18	4
 	+	18	4
-	+	19	4
-	+	20	4
-	+	21	4
-	+	22	4
-	+	23	4
-	+	24	4
-	+	9	0
 
-> /Volumes/HD2/dev/crafting/mail_form/spec/accessors/sample_mail.rb
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop-1.1.1/NERD_tree_1
 	"	1	0
-	.	3	0
-	+	4	0
-	+	3	0
+	.	1	0
+	+	1	0
+	+	1	0
 
-> /Volumes/HD2/dev/crafting/mail_form/NERD_tree_1
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop-1.1.1/NERD_tree_3
+	"	843	14
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop-1.1.1/NERD_tree_4
+	"	828	7
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.1.1/app/models/sop_authentication/signup.rb
+	"	16	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.0.18/app/models/sop_authentication/signup.rb
+	"	8	17
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.0.18/app/models/sop_authentication/signup_full.rb
+	"	8	20
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_support-1.0.18/lib/sop_support/presenter/base.rb
+	"	5	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/sop_authentication-1.0.18/lib/sop_authentication/models/signup_base.rb
+	"	111	16
+
+> /Volumes/HD2/dev/sop/NERD_tree_1
+	"	35	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/sop/.idea/workspace.xml
+	"	106	33
+
+> /Volumes/HD2/dev/sop/mysageone_core/lib/mysageone_core/give_service.rb
+	"	20	10
+
+> /Volumes/HD2/dev/sop/mysageone_core/spec/mixins/user_spec.rb
+	"	161	12
+
+> /Volumes/HD2/dev/sop/sop_mysageone/lib/sop_mysageone/provisioners/my_sage_one.rb
+	"	5	0
+
+> /Volumes/HD2/dev/mysageone_uk/Gemfile
+	"	1	0
+
+> /Volumes/HD2/dev/mysageone_uk/NERD_tree_1
+	"	23	12
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/mysageone_uk/Gemfile.lock
+	"	1	0
+
+> /Volumes/HD2/dev/mysageone_uk/host_app/Gemfile
+	"	47	0
+
+> /Volumes/HD2/dev/mysageone_uk/host_app/Gemfile.lock
+	"	179	25
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/guard-1.4.0/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/guard-1.4.0/NERD_tree_3
+	"	43	1
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/guard-1.4.0/NERD_tree_4
+	"	9	3
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/gems/guard-1.4.0/lib/guard.rb
+	"	40	39
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-dea6f2b4633c/mysageone_na/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-dea6f2b4633c/mysageone_na/NERD_tree_3
+	"	14	11
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-dea6f2b4633c/mysageone_na/NERD_tree_4
+	"	18	8
+	.	1	0
+	+	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-dea6f2b4633c/mysageone_na/README.rdoc
+	"	1	0
+
+> ~/.rbenv/versions/1.9.3-p327-perf/lib/ruby/gems/1.9.1/bundler/gems/mysageone_na-dea6f2b4633c/mysageone_na/Gemfile.lock
+	"	281	25
+
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/NERD_tree_3
+	"	5	0
+	.	1	0
+	+	1	0
+
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/NERD_tree_4
 	"	16	8
 	.	1	0
 	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
 
-> /Volumes/HD2/dev/crafting/mail_form/spec/accessors/mail_form_spec.rb
-	"	27	28
-	^	27	29
-	.	27	28
-	+	14	25
-	+	14	37
-	+	14	33
-	+	15	46
-	+	32	0
-	+	5	2
-	+	12	0
-	+	5	0
-	+	1	0
-	+	12	0
-	+	1	0
-	+	4	0
-	+	1	21
-	+	4	21
-	+	1	20
-	+	2	29
-	+	14	11
-	+	15	18
-	+	13	36
-	+	14	0
-	+	14	0
-	+	14	0
-	+	15	0
-	+	30	0
-	+	16	0
-	+	15	29
-	+	30	0
-	+	15	26
-	+	14	0
-	+	14	0
-	+	12	0
-	+	11	0
-	+	6	19
-	+	8	0
-	+	14	0
-	+	8	0
-	+	10	0
-	+	8	6
-	+	8	6
-	+	9	6
-	+	10	13
-	+	8	0
-	+	7	31
-	+	10	0
-	+	8	12
-	+	9	12
-	+	10	0
-	+	14	12
-	+	15	12
-	+	22	0
-	+	19	0
-	+	19	21
-	+	20	24
-	+	19	37
-	+	20	38
-	+	19	19
-	+	20	19
-	+	19	24
-	+	20	25
-	+	29	0
-	+	26	0
-	+	19	0
-	+	24	0
-	+	27	35
-	+	27	0
-	+	28	18
-	+	27	28
-	+	28	29
-	+	27	34
-	+	28	35
-	+	27	28
-	+	28	29
-	+	27	28
+> /Volumes/HD2/dev/mysageone_na/mysageone_na/Gemfile.lock
+	"	11	5
 
-> /Volumes/HD2/dev/crafting/mail_form/NERD_tree_2
-	"	1	0
-	.	1	0
-	+	1	0
-
-> /Volumes/HD2/dev/crafting/mail_form/lib/mail_form/base.rb
-	"	23	4
+> /Volumes/HD2/dev/mysageone_uk/accountants/app/controllers/accountants/accountants_controller.rb
+	"	23	5
+	^	23	6
 	.	23	0
-	+	26	3
-	+	9	25
-	+	3	0
-	+	7	0
-	+	5	35
-	+	12	0
-	+	11	35
-	+	17	34
-	+	24	0
-	+	18	22
-	+	11	31
-	+	6	30
-	+	24	0
+	+	21	0
 	+	23	0
-	+	24	0
-	+	22	29
-	+	23	0
-	p	1	0
 
-> /Volumes/HD2/dev/crafting/mail_form/spec/fixtures/sample_mail.rb
-	"	1	13
-	.	2	0
-	+	1	17
-	+	2	38
-	+	2	0
-	+	2	0
+> /Volumes/HD2/dev/mysageone_uk/accountants/app/controllers/accountants/clients_controller.rb
+	"	87	14
+	^	89	6
+	.	89	6
+	+	89	6
 
-> /Volumes/HD2/dev/crafting/mail_form/lib/mail_form.rb
-	"	3	2
-	^	2	34
-	.	2	33
-	+	2	33
+> ~/.profile
+	"	7	0
+
+> /Volumes/HD2/dev/na_sage_one/sage_one_host/~.profile
+	"	1	0
+
+> ~/profile
+	"	1	0
+
+> /Volumes/HD2/dev/accountants_core/.gitignore
+	"	14	4
+	^	14	5
+	.	14	4
+	+	14	4
