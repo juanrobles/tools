@@ -123,12 +123,15 @@ map <c-n> :NERDTreeToggle<CR>
 
 
 
-
-
-
-
-
-
+" ======================
+" Git tpope/vim-fugitive
+" ======================
+noremap <leader>gs :Gstatus<CR>
+noremap <leader>gc :Gcommit<CR>
+noremap <leader>gb :Gblame<CR>
+noremap <leader>gd :Gdiff<CR>
+noremap <leader>ga :Gwrite<CR>
+noremap <leader>gr :Gread<CR>
 
 
 filetype plugin on
